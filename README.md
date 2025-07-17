@@ -41,4 +41,5 @@ Este projeto faz parte do bootcamp da [DIO](https://www.dio.me), focado em funda
 
 📚 Referências
 Digital Innovation One (DIO) - https://www.dio.me
+
 Documentação do Bash - https://www.gnu.org/software/bash/manual/
