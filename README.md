@@ -40,6 +40,5 @@ Este projeto faz parte do bootcamp da [DIO](https://www.dio.me), focado em funda
 - Aplicar práticas reais de Infraestrutura como Código.
 
 📚 Referências
-Digital Innovation One (DIO) - https://www.dio.me
-
-Documentação do Bash - https://www.gnu.org/software/bash/manual/
+- Digital Innovation One (DIO) - https://www.dio.me
+- Documentação do Bash - https://www.gnu.org/software/bash/manual/
